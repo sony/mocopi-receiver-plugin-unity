@@ -1,0 +1,7 @@
+{
+  "name": "com.sony.mocopi.receiver",
+  "version": "1.1.0",
+  "displayName": "mocopi Receiver Plugin for Unity",
+  "description": "mocopi Receiver Plugin for Unity",
+  "unity": "6000.0"
+}
