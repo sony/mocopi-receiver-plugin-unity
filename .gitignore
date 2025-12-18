@@ -1,0 +1,22 @@
+#Folders
+Temp/
+Library/
+obj/
+Logs/
+UserSettings/
+.vs/
+.utmp/
+.vscode/
+
+# Files
+*.vsconfig
+*.csproj
+*.sln
+*.bvh
+*.suo
+*.vrm
+*.vcxproj.user
+*.DS_Store
+
+# Specific ignores
+StyleCop.Cache
